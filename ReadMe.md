@@ -8,3 +8,6 @@
 ## branch-test1
 ## branch=test2
 
+settings/docker pugin 설치
+Dockerfile을 열면 run 버튼이있다
+port 8000 8000
